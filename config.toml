@@ -1,0 +1,4 @@
+baseURL = "https://decore-homey75.vercel.app"
+languageCode = "en-us"
+title = "Home Decore USA"
+theme = "hugo-theme-minos"
